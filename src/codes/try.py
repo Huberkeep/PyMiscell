@@ -1,11 +1,11 @@
-def trycode(codes,error_do):
-  try:
-    eval(codes)
-  except as error:  
-    eval(error_do)
-def codelook(codes):
+def trycode(codes,error_handling):
+  if codes == null:
+    print("Error:not codes!")
+  elif error_handling == null:
+    return "not error_handing!"
+  else:
     try:
       eval(codes)
-      print("Success Executed")
-    except as error:
-      print(f"ERROR:{error}\nPlease modify it!")
+    except as error:  
+      eval(error_handling)
+  
