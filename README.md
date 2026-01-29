@@ -4,12 +4,6 @@
 ![README](https://img.shields.io/badge/README-README.md-yellow)
 <br>
 This is my first python lib!
-## SRC-TREE
-src-tree(src directory TREE)
-+ src>
-  + bars
-    + **__init__.py**
-    + *firstbars.py*
 ## PROJECT-TREE
 + JanHello-pylib
   + src
@@ -18,3 +12,11 @@ src-tree(src directory TREE)
       + firstbars.py
   + README.md
   + LISENCE        
+## introduce
+A lib of Python,include:
++ easy TUI(ASCII Dialog Box) 
+(TUI like this↓)
+
+┏─━┄┅┈┉┓
+|Hello World |
+┖╌╍─━┄┅┉┛
