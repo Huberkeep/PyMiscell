@@ -3,5 +3,9 @@
 ![author](https://img.shields.io/badge/Author-Huberkeep-blue)
 ![README](https://img.shields.io/badge/README-README.md-yellow)
 <br>
-This is my first python library!
-
+This is my first python lib!
+## functions
+```src-tree
+src>
+  >
+```
