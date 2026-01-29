@@ -16,7 +16,7 @@ def ceicfirmbar(things_name,prompt,choice_name,handlingback,do):
       if br == 'yes'
         eval(handlingback)
       else:
-         eval(handlingback)
+         ceicfirmbar()
   else:
       print("?")
 def icrinputbar(title,prompt):
