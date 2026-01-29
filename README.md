@@ -4,8 +4,17 @@
 ![README](https://img.shields.io/badge/README-README.md-yellow)
 <br>
 This is my first python lib!
-## functions
-```src-tree
-src>
-  >
-```
+## SRC-TREE
+src-tree(src directory TREE)
++ src>
+  + bars
+    + **__init__.py**
+    + *firstbars.py*
+## PROJECT-TREE
++ JanHello-pylib
+  + src
+    + bars
+      + **__init__.py**
+      + firstbars.py
+  + README.md
+  + LISENCE        
